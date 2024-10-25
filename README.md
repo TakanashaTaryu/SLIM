@@ -1,4 +1,4 @@
-```markdown
+
 # SLIM (Site Learning Information Management)
 
 ## Description
