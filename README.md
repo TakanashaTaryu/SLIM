@@ -106,8 +106,3 @@ If you would like to contribute, please follow these steps:
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
-
-### Notes
-- Replace `username` and `repo-name` in the "Clone the repository" section with your GitHub username and the appropriate repository name.
-- You can add or modify sections as needed to suit your project better, such as additional information or usage guidelines.
