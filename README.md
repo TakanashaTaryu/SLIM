@@ -38,8 +38,8 @@ Follow these steps to set up your development environment:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/username/repo-name.git
-   cd repo-name
+   git clone https://github.com/TakanashaTaryu/SLIM.git
+   cd SLIM
    ```
 
 2. **Install PHP dependencies using Composer**
