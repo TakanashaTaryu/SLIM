@@ -86,6 +86,7 @@ Follow these steps to set up your development environment:
 
    ```bash
    npm run dev
+   npm run build
    ```
 
 ## Usage
