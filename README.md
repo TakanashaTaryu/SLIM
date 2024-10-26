@@ -38,15 +38,19 @@ Follow these steps to set up your development environment:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/username/repo-name.git
-   cd repo-name
+   git clone https://github.com/TakanashaTaryu/SLIM.git
+   cd SLIM
    ```
 
 2. **Install PHP dependencies using Composer**
 
+   if you didnt have composer installed, [click here](https://getcomposer.org/download/) to download composer and follow installation instruction
    ```bash
    composer install
    ```
+
+
+
 
 3. **Install JavaScript dependencies using npm**
 
@@ -102,6 +106,12 @@ If you would like to contribute, please follow these steps:
 2. Create a new branch for the feature or fix you wish to add.
 3. Commit your changes.
 4. Push to your branch and create a Pull Request.
+
+## Note
+
+1. Use ```.blade.php``` files in ```resources/views``` for the overall layout and static pages.
+
+2. Use ```.vue``` files in ```resources/js/pages``` or ```components``` for dynamic, interactive content that Vue manages.
 
 ## License
 
