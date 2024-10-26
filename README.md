@@ -44,9 +44,13 @@ Follow these steps to set up your development environment:
 
 2. **Install PHP dependencies using Composer**
 
+   if you didnt have composer installed, [click here](https://getcomposer.org/download/) to download composer and follow installation instruction
    ```bash
    composer install
    ```
+
+
+
 
 3. **Install JavaScript dependencies using npm**
 
