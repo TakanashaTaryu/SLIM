@@ -23,7 +23,7 @@
     <!-- Header -->
     <header class="slim-header-bg text-white py-4">
         <div class="container mx-auto flex justify-between items-center bor">
-            <img src="{{ asset('../img/slim-logo.png') }}" alt="SLIM Logo">
+            <img src="{{ asset('../../../../public/build/assets/img/slim-logo.png') }}" alt="SLIM Logo">
             <nav>
                 <a href="/landing-page" class="text-white hover:text-blue-200 px-4">Login</a>
             </nav>
@@ -35,11 +35,13 @@
         <div class="grid grid-cols-1 md:grid-cols-1 gap-8 my-8">
             <!-- Team Member 1 -->
             <div class="bg-white rounded-3xl shadow-lg p-6 text-center">
-                <img src="https://via.placeholder.com/150" alt="Team Member 1" class="w-24 h-24 rounded-full mx-auto mb-4">
-                <h3 class="text-xl font-semibold">Lorem Ipsum</h3>
-                <p class="text-blue-600">CEO</p>
-                <p class="text-gray-600 mt-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                <img src="https://placehold.co/1920x1080" alt="Team Member 1" class="rounded-xl mx-auto my-auto">
+                <!-- <p class="text-gray-600 mt-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p> -->
             </div>
+        </div>
+
+        <div class="">
+
         </div>
 
         <!-- <h2 class="text-3xl font-semibold text-center mb-4">About Us</h2>
@@ -51,46 +53,46 @@
         <div class="grid grid-cols-2 md:grid-cols-3 gap-8">
             <!-- Team Member 1 -->
             <div class="bg-white rounded-3xl shadow-lg p-6 text-center">
-                <img src="https://via.placeholder.com/150" alt="Team Member 1" class="w-24 h-24 rounded-full mx-auto mb-4">
-                <h3 class="text-xl font-semibold">Lorem Ipsum</h3>
-                <p class="text-blue-600">CEO</p>
-                <p class="text-gray-600 mt-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                <img src="https://placehold.co/1920x1080" alt="Team Member 1" class="rounded-xl mx-auto my-auto">
+                <!-- <h3 class="text-xl font-semibold">Lorem Ipsum</h3>
+                <p class="text-blue-600">CEO</p> -->
+                <!-- <p class="text-gray-600 mt-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p> -->
             </div>
             <!-- Team Member 2 -->
             <div class="bg-white rounded-3xl shadow-lg p-6 text-center">
-                <img src="https://via.placeholder.com/150" alt="Team Member 2" class="w-24 h-24 rounded-full mx-auto mb-4">
-                <h3 class="text-xl font-semibold">Lorem Ipsum</h3>
-                <p class="text-blue-600">CTO</p>
-                <p class="text-gray-600 mt-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                <img src="https://placehold.co/1920x1080" alt="Team Member 2" class="rounded-xl mx-auto my-auto">
+                <!-- <h3 class="text-xl font-semibold">Lorem Ipsum</h3>
+                <p class="text-blue-600">CTO</p> -->
+                <!-- <p class="text-gray-600 mt-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p> -->
             </div>
             <!-- Team Member 3 -->
             <div class="bg-white rounded-3xl shadow-lg p-6 text-center">
-                <img src="https://via.placeholder.com/150" alt="Team Member 3" class="w-24 h-24 rounded-full mx-auto mb-4">
-                <h3 class="text-xl font-semibold">Lorem Ipsum</h3>
-                <p class="text-blue-600">COO</p>
-                <p class="text-gray-600 mt-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                <img src="https://placehold.co/1920x1080" alt="Team Member 3" class="rounded-xl mx-auto my-auto">
+                <!-- <h3 class="text-xl font-semibold">Lorem Ipsum</h3>
+                <p class="text-blue-600">COO</p> -->
+                <!-- <p class="text-gray-600 mt-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p> -->
             </div>
 
             <!-- Team Member 1 -->
             <div class="bg-white rounded-3xl shadow-lg p-6 text-center">
-                <img src="https://via.placeholder.com/150" alt="Team Member 1" class="w-24 h-24 rounded-full mx-auto mb-4">
-                <h3 class="text-xl font-semibold">Lorem Ipsum</h3>
-                <p class="text-blue-600">CEO</p>
-                <p class="text-gray-600 mt-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                <img src="https://placehold.co/1920x1080" alt="Team Member 1" class="rounded-xl mx-auto my-auto">
+                <!-- <h3 class="text-xl font-semibold">Lorem Ipsum</h3>
+                <p class="text-blue-600">CEO</p> -->
+                <!-- <p class="text-gray-600 mt-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p> -->
             </div>
             <!-- Team Member 2 -->
             <div class="bg-white rounded-3xl shadow-lg p-6 text-center">
-                <img src="https://via.placeholder.com/150" alt="Team Member 2" class="w-24 h-24 rounded-full mx-auto mb-4">
-                <h3 class="text-xl font-semibold">Lorem Ipsum</h3>
-                <p class="text-blue-600">CTO</p>
-                <p class="text-gray-600 mt-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                <img src="https://placehold.co/1920x1080" alt="Team Member 2" class="rounded-xl mx-auto my-auto">
+                <!-- <h3 class="text-xl font-semibold">Lorem Ipsum</h3>
+                <p class="text-blue-600">CTO</p> -->
+                <!-- <p class="text-gray-600 mt-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p> -->
             </div>
             <!-- Team Member 3 -->
             <div class="bg-white rounded-3xl shadow-lg p-6 text-center">
-                <img src="https://via.placeholder.com/150" alt="Team Member 3" class="w-24 h-24 rounded-full mx-auto mb-4">
-                <h3 class="text-xl font-semibold">Lorem Ipsum</h3>
-                <p class="text-blue-600">COO</p>
-                <p class="text-gray-600 mt-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                <img src="https://placehold.co/1920x1080" alt="Team Member 3" class="rounded-xl mx-auto my-auto">
+                <!-- <h3 class="text-xl font-semibold">Lorem Ipsum</h3>
+                <p class="text-blue-600">COO</p> -->
+                <!-- <p class="text-gray-600 mt-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p> -->
             </div>
         </div>
     </main>
@@ -104,7 +106,7 @@
                 <p>Cookie Policy</p>
             </div>
 
-            <img src="../img/slim-footer.png">
+            <img src="{{ asset('../../../../public/build/assets/img/slim-footer.png') }}">
             <p>&copy; {{ date('Y') }} SLIM. All rights reserved.</p>
         </div>
     </footer>
