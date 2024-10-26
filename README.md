@@ -107,6 +107,12 @@ If you would like to contribute, please follow these steps:
 3. Commit your changes.
 4. Push to your branch and create a Pull Request.
 
+## Note
+
+1. Use ```.blade.php``` files in ```resources/views``` for the overall layout and static pages.
+
+2. Use ```.vue``` files in ```resources/js/pages``` or ```components``` for dynamic, interactive content that Vue manages.
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
