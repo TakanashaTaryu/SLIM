@@ -39,7 +39,7 @@ Follow these steps to set up your development environment:
 
    ```bash
    git clone https://github.com/TakanashaTaryu/SLIM.git
-   cd repo-name
+   cd SLIM
    ```
 
 2. **Install PHP dependencies using Composer**
