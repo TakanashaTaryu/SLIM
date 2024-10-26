@@ -85,6 +85,7 @@ Follow these steps to set up your development environment:
 8. **Compile front-end assets**
 
    ```bash
+   npm run build
    npm run dev
    ```
 
