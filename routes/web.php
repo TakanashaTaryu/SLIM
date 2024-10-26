@@ -7,7 +7,7 @@ use Inertia\Inertia;
 
 // routes/web.php
 Route::view('/about', 'about');
-Route::view('/e6', 'e6');
+Route::view('/landing-page', 'landing-page');
 
 Route::get('/', function () {
     return Inertia::render('Welcome', [
